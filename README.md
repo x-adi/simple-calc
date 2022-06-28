@@ -17,7 +17,7 @@ A simple (beginner-friendly) calculator made in Python 3
 Download the calc.py and then make it an exe by downloading pyinstaller ("`pip install pyinstaller`") and then making it an exe (Goto the directory of calc.py and then "`pyinstaller calc.py --onefile`")
 
 # Known Bugs
-- Cube root shows x.999 (where x is an ddd number) etc for cube root of 6even numbers where it should show the exact number without showing x.999 etc.
+- Cube root shows x.999 (where x is an ddd number) etc for cube root of even numbers where it should show the exact number without showing x.999 etc.
 For example- cube root of 512 shows 7.999999999 whereas it should show 8.
 
 # Keep in mind
