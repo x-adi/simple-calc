@@ -23,7 +23,7 @@ For example- cube root of 512 shows 7.999999999 whereas it should show 8.
 # Keep in mind
 
 - Only decimals (1.99, 2.8 etc) and integers (-12, 3, 100 etc) are allowed. 
-- Fractions (23/4, 33/5), blank spaces and special characters ( , @#$% etc) and alphabets (a-x, A-Z) are not allowed. Entering this will result in crashing of the app.
+- Fractions (23/4, 33/5), blank spaces and special characters ( , @#$% etc) and alphabets (a-z, A-Z) are not allowed. Entering this will result in crashing of the app.
 
 Any suggestions are welcome.
 
